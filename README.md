@@ -1,0 +1,2 @@
+# getOddSquareSum
+getOddSquareSum
